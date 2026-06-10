@@ -53,8 +53,7 @@ git clone https://github.com/your-username/javascript-chess-game.git
 ---
 
 ## 📸 Project Preview
-
-Add screenshots of your project here after uploading to GitHub.
+<img width="988" height="859" alt="Screenshot 2026-06-09 141253" src="https://github.com/user-attachments/assets/717d7282-8867-442c-b869-1082aacef864" />
 
 Example:
 
@@ -81,15 +80,9 @@ Feel free to fork this repository and submit pull requests.
 
 ---
 
-## 📜 License
-
-This project is open-source and available under the MIT License.
-
----
-
 ## 👩‍💻 Author
 
 **Divya Dadasaheb Chougule**
 
-GitHub: https://github.com/your-username
+GitHub:(https://github.com/divyachougule2007-coder/javascript-chess-game.git)
 
